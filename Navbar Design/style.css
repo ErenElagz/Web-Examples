@@ -1,0 +1,11 @@
+body {
+    background-color: #121212 !important;
+}
+
+* {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700 !important;
+    margin: 50 !important;
+}
+
