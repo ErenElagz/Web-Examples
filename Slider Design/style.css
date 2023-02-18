@@ -1,0 +1,46 @@
+body {
+    background-color: #121212 !important;
+}
+
+* {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+}
+
+.material-symbols-rounded {
+    font-variation-settings:
+        'FILL'0,
+        'wght'400,
+        'GRAD'0,
+        'opsz'40
+}
+
+.big-dot {
+    height: 10px;
+    width: 40px;
+    background: #FFF;
+    border-radius: 20px;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background: #FFF;
+    border-radius: 20px;
+    opacity: 50%;
+}
+
+.slider-design {
+    margin: 20px !important;
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), transparent), url("vinland\ saga-banner.jpg");
+    border-radius: 12px;
+    background-position: center !important;
+    background-size: cover !important;
+}
+body{
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+}
