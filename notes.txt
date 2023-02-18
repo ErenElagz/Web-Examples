@@ -1,0 +1,7 @@
+resimlerde gradient ve opaklık ayarlanırken iç içe class lar kullanılabılır
+
+mesela ; 
+
+<div class="image_preview_container">
+    <div class="image_preview"></div>
+</div>
