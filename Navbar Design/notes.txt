@@ -1,0 +1,2 @@
+Kucuk ekrana ayarlayınca MangaRode MR olarak ayarlayamadım
+ölçülerde ufak farklılıklar var responsive e gecince gruplar fazla ince
